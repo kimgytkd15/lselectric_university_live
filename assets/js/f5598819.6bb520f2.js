@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklselectric_university=self.webpackChunklselectric_university||[]).push([["6501"],{3775(e){e.exports=JSON.parse('{"metadata":{"permalink":"/lselectric_university_live/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
