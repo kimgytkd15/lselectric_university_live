@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklselectric_university=self.webpackChunklselectric_university||[]).push([["92"],{4967(){}}]);

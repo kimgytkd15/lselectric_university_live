@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklselectric_university=self.webpackChunklselectric_university||[]).push([["3220"],{1912(e){e.exports=JSON.parse('{"blogBasePath":"/lselectric_university_live/ko/blog","blogTitle":"Blog","authorsListPath":"/lselectric_university_live/ko/blog/authors"}')}}]);
